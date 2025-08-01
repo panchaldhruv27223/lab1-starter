@@ -1,0 +1,8 @@
+https://svnbook.red-bean.com/en/1.7/svn-book.pdf
+https://git-scm.com/book/en/v2
+https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab2/
+
+## Not Recommended sources(blogs):
+https://medium.com/@sachinsoni600517/complete-tutorial-of-git-and-github-for-basic-to-advanced-1dd34d12b90b
+https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256
+https://medium.com/@obaff/git-and-github-tutorial-for-beginners-9abae4a530d4
